@@ -1,4 +1,4 @@
-#Lifelong AUC Maximization
+# Lifelong AUC Maximization
 This is the official implementation of the UAI 2023 paper [AUC Maximization in Imbalanced Lifelong Learning
 ](https://openreview.net/pdf?id=X7-y2_vjvk)
 
