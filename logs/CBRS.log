@@ -1,0 +1,48 @@
+auc= 0.6152881383895874
+results/CBRS_agem_cifar100.pt_2022_05_24_18_48_39_127d22e4d4c94151b579eed13735be84: {'model': 'CBRS_agem', 'n_hiddens': 100, 'n_layers': 2, 'n_memories': 64, 'memory_strength': 0.5, 'finetune':
+False, 'n_epochs': 1, 'batch_size': 64, 'lr': 0.1, 'cuda': True, 'seed': 0, 'imratio': 0.05, 'log_every': 100, 'save_path': 'results/', 'dataset': 'CIFAR100', 'data_path': 'data/', 'data_file':
+'cifar100.pt', 'samples_per_task': -1, 'shuffle_tasks': 'no', 'make_imbalanced': 'yes'} # 0.604 0.004 0.000 nan # 24.220564126968384
+auc= 0.7302951216697693
+results/CBRS_mega_cifar100.pt_2022_05_24_18_49_10_5ad499e303194ffbb0f13079612fda47: {'model': 'CBRS_mega', 'n_hiddens': 100, 'n_layers': 2, 'n_memories': 64, 'memory_strength': 0.5, 'finetune':
+False, 'n_epochs': 1, 'batch_size': 64, 'lr': 0.1, 'cuda': True, 'seed': 0, 'imratio': 0.05, 'log_every': 100, 'save_path': 'results/', 'dataset': 'CIFAR100', 'data_path': 'data/', 'data_file':
+'cifar100.pt', 'samples_per_task': -1, 'shuffle_tasks': 'no', 'make_imbalanced': 'yes'} # 0.655 -0.143 0.000 nan # 24.056782007217407
+auc= 0.7234370708465576
+results/CBRS_gdumb_cifar100.pt_2022_05_24_18_49_32_a2325dc92ea54f88bef5019f4e0e92ac: {'model': 'CBRS_gdumb', 'n_hiddens': 100, 'n_layers': 2, 'n_memories': 64, 'memory_strength': 0.5, 'finetune'
+: False, 'n_epochs': 1, 'batch_size': 64, 'lr': 0.1, 'cuda': True, 'seed': 0, 'imratio': 0.05, 'log_every': 100, 'save_path': 'results/', 'dataset': 'CIFAR100', 'data_path': 'data/', 'data_file'
+: 'cifar100.pt', 'samples_per_task': -1, 'shuffle_tasks': 'no', 'make_imbalanced': 'yes'} # 0.638 -0.058 0.000 nan # 15.862361192703247
+auc= 0.7659137845039368
+results/CBRS_new_cifar100.pt_2022_05_24_18_50_22_069bdf9330ce4708bfe3a3b8bfb3baec: {'model': 'CBRS_new', 'n_hiddens': 100, 'n_layers': 2, 'n_memories': 64, 'memory_strength': 0.5, 'finetune': Fa
+lse, 'n_epochs': 1, 'batch_size': 64, 'lr': 0.1, 'cuda': True, 'seed': 0, 'imratio': 0.05, 'log_every': 100, 'save_path': 'results/', 'dataset': 'CIFAR100', 'data_path': 'data/', 'data_file': 'c
+ifar100.pt', 'samples_per_task': -1, 'shuffle_tasks': 'no', 'make_imbalanced': 'yes'} # 0.687 -0.059 0.000 nan # 43.97189378738403
+auc= 0.48591381311416626
+results/CBRS_agem_CUB200_2022_05_24_18_51_29_7be3fa8e15934d0d979f6636eec98873: {'model': 'CBRS_agem', 'n_hiddens': 100, 'n_layers': 2, 'n_memories': 64, 'memory_strength': 0.5, 'finetune': False
+, 'n_epochs': 1, 'mem_batch_size': 64, 'batch_size': 64, 'lr': 0.1, 'cuda': True, 'seed': 0, 'imratio': 0.05, 'log_every': 100, 'save_path': 'results', 'data_path': 'data/CUB_data/CUB_200_2011/i
+mages/', 'dataset': 'CUB200', 'samples_per_task': -1, 'shuffle_tasks': 'no', 'make_imbalanced': 'yes'} # 0.496 0.028 0.000 nan # 62.18750786781311
+auc= 0.5205749273300171
+results/CBRS_mega_CUB200_2022_05_24_18_52_33_9f2ef0d32e9b40168e62ced17e473c09: {'model': 'CBRS_mega', 'n_hiddens': 100, 'n_layers': 2, 'n_memories': 64, 'memory_strength': 0.5, 'finetune': False
+, 'n_epochs': 1, 'mem_batch_size': 64, 'batch_size': 64, 'lr': 0.1, 'cuda': True, 'seed': 0, 'imratio': 0.05, 'log_every': 100, 'save_path': 'results', 'data_path': 'data/CUB_data/CUB_200_2011/i
+mages/', 'dataset': 'CUB200', 'samples_per_task': -1, 'shuffle_tasks': 'no', 'make_imbalanced': 'yes'} # 0.505 0.019 0.000 nan # 59.37419319152832
+auc= 0.7018451690673828
+results/CBRS_gdumb_CUB200_2022_05_24_18_53_32_7431a3adb6c84a33a549fe04c6c0a9f0: {'model': 'CBRS_gdumb', 'n_hiddens': 100, 'n_layers': 2, 'n_memories': 64, 'memory_strength': 0.5, 'finetune': Fal
+se, 'n_epochs': 1, 'mem_batch_size': 64, 'batch_size': 64, 'lr': 0.1, 'cuda': True, 'seed': 0, 'imratio': 0.05, 'log_every': 100, 'save_path': 'results', 'data_path': 'data/CUB_data/CUB_200_2011
+/images/', 'dataset': 'CUB200', 'samples_per_task': -1, 'shuffle_tasks': 'no', 'make_imbalanced': 'yes'} # 0.575 -0.042 0.000 nan # 55.13393545150757
+auc= 0.7804354429244995
+results/CBRS_new_CUB200_2022_05_24_18_54_59_e00c8c083f77444d869092f7c1866447: {'model': 'CBRS_new', 'n_hiddens': 100, 'n_layers': 2, 'n_memories': 64, 'memory_strength': 0.5, 'finetune': False,
+'n_epochs': 1, 'mem_batch_size': 64, 'batch_size': 64, 'lr': 0.1, 'cuda': True, 'seed': 0, 'imratio': 0.05, 'log_every': 100, 'save_path': 'results', 'data_path': 'data/CUB_data/CUB_200_2011/ima
+ges/', 'dataset': 'CUB200', 'samples_per_task': -1, 'shuffle_tasks': 'no', 'make_imbalanced': 'yes'} # 0.503 0.035 0.000 nan # 82.85030317306519
+auc= 0.5657138824462891
+results/CBRS_agem_AWA2_2022_05_24_18_57_43_20b4989a14a34ccb8ef383d37f8f1966: {'model': 'CBRS_agem', 'n_hiddens': 100, 'n_layers': 2, 'n_memories': 64, 'memory_strength': 0.5, 'finetune': False,
+'n_epochs': 1, 'mem_batch_size': 64, 'batch_size': 64, 'lr': 0.1, 'cuda': True, 'seed': 0, 'imratio': 0.05, 'log_every': 100, 'save_path': 'results', 'data_path': 'data/AWA2', 'dataset': 'AWA2',
+ 'samples_per_task': -1, 'shuffle_tasks': 'no', 'make_imbalanced': 'yes'} # 0.479 0.299 0.000 nan # 157.77737736701965
+auc= 0.5
+results/CBRS_mega_AWA2_2022_05_24_19_00_18_9753654afae747ed85ecd931a799f284: {'model': 'CBRS_mega', 'n_hiddens': 100, 'n_layers': 2, 'n_memories': 64, 'memory_strength': 0.5, 'finetune': False,
+'n_epochs': 1, 'mem_batch_size': 64, 'batch_size': 64, 'lr': 0.1, 'cuda': True, 'seed': 0, 'imratio': 0.05, 'log_every': 100, 'save_path': 'results', 'data_path': 'data/AWA2', 'dataset': 'AWA2',
+ 'samples_per_task': -1, 'shuffle_tasks': 'no', 'make_imbalanced': 'yes'} # 0.479 0.299 0.000 nan # 149.700927734375
+auc= 0.8620668649673462
+results/CBRS_gdumb_AWA2_2022_05_24_19_02_31_04c383a00e214bfe89cff5c95d1ebed5: {'model': 'CBRS_gdumb', 'n_hiddens': 100, 'n_layers': 2, 'n_memories': 64, 'memory_strength': 0.5, 'finetune': False
+, 'n_epochs': 1, 'mem_batch_size': 64, 'batch_size': 64, 'lr': 0.1, 'cuda': True, 'seed': 0, 'imratio': 0.05, 'log_every': 100, 'save_path': 'results', 'data_path': 'data/AWA2', 'dataset': 'AWA2
+', 'samples_per_task': -1, 'shuffle_tasks': 'no', 'make_imbalanced': 'yes'} # 0.774 0.171 0.000 nan # 127.75105476379395
+auc= 0.9938115477561951
+results/CBRS_new_AWA2_2022_05_24_19_06_54_4081b7c3e8bf45cdb779b77e982613ad: {'model': 'CBRS_new', 'n_hiddens': 100, 'n_layers': 2, 'n_memories': 64, 'memory_strength': 0.5, 'finetune': False, 'n
+_epochs': 1, 'mem_batch_size': 64, 'batch_size': 64, 'lr': 0.1, 'cuda': True, 'seed': 0, 'imratio': 0.05, 'log_every': 100, 'save_path': 'results', 'data_path': 'data/AWA2', 'dataset': 'AWA2', '
+samples_per_task': -1, 'shuffle_tasks': 'no', 'make_imbalanced': 'yes'} # 0.863 0.684 0.000 nan # 257.54710817337036
